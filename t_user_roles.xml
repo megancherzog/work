@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic id="clear-cost-user-roles">
+  <title>User Roles</title>
+  <shortdesc>This information is an overall view of each role in the Administration portal.</shortdesc>
+  <body>
+    <p>Use the information about user roles to facilitate faster and more accurate searches on this site.</p>
+    <p>User roles are defined as general areas of responsibility that can align with different job titles, which can overlap depending on the size and structure of your business. The Documentation user roles have been included for your reference.</p>
+    <table>
+      <title>User Roles</title>
+      <tgroup cols="2">
+        <colspec colname="c1" colwidth="1*"/>
+        <colspec colname="c2" colwidth="3*"/>
+        <thead>
+          <row>
+            <entry>Role</entry>
+            <entry>Description</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Admin</entry>
+            <entry>This role has full access to all functionality including the ability to download reports. It is typically assigned to an IT administrator or Director.<br/>Documentation role: System Administrators</entry>
+          </row>
+          <row>
+            <entry>User</entry>
+            <entry>This role has access to the dashboard, estimates, and can search for previous estimates.<br/>Documentation role: Office Administrator</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </body>
+</topic>
