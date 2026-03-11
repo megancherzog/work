@@ -31,10 +31,6 @@ The repository is organized with paired file formats for accessibility:
 - **r_** prefix: Reference files (factual information and FAQs)
 - **c_** prefix: Configuration or security-related files
 
-## File Descriptions
-
-### Security & Authentication
-
 **Two-Step Authentication**
 - Files: 
   - XML: `c_two_step_authentication.xml`
