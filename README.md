@@ -66,7 +66,6 @@ This repository showcases four samples from a college financial aid platform, de
 
 **Content Management & Publishing**
 - Oxygen Content Fusion: Collaborative review and publishing workflows
-- Version control proficiency enabling efficient content updates alongside product releases
 - Version control: Proficiency enabling efficient content updates alongside product releases
 - Multi-format output (XML, PDF, ODT, Markdown): Accessibility and distribution optimization
 - Publishing automation: Consistent formatting across customer-facing content
