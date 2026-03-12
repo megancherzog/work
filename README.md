@@ -4,20 +4,20 @@
 
 This repository serves as a work portfolio showcasing my experience and expertise. I am a **communicator who supports software development teams** with high-quality content in product organizations. I focus on documentation quality and release readiness, collaborating with subject matter experts and product teams to deliver clear, accurate information.
 
-This repository contains technical documentation files for product features, user guides, and system administration resources that demonstrate my documentation capabilities.
+This repository contains sample files for product features, user guides, and system administration resources that demonstrate my documentation capabilities.
 
-## Professional Experience & Accomplishments
+## Professional Experience \& Accomplishments
 
-- Scheduled, organized, and delegated work with cross-functional and international partners
-- Managed multiple content initiatives supporting simultaneous product releases
-- Provided constructive, tactful feedback to writers and contributors
-- Mentored and trained team members on same-day release notes and content updates
-- Supported team adoption of new tools and content creation software as an early adopter
-- Encouraged knowledge sharing and continuous improvement across the writing team
-- Used Kanban development methodology to manage work in progress
-- Partnered with development teams across multiple products
-- Collaborated with product and development teams on continuous reviews of historical documentation
-- Used AI tools (ChatGPT Enterprise, Copilot, GitHub Copilot, Atlassian Rovo) to complete tasks
+* Scheduled, organized, and delegated work with cross-functional and international partners
+* Managed multiple content initiatives supporting simultaneous product releases
+* Provided constructive, tactful feedback to writers and contributors
+* Mentored and trained team members on same-day release notes and content updates
+* Supported team adoption of new tools and content creation software as an early adopter
+* Encouraged knowledge sharing and continuous improvement across the writing team
+* Used Kanban development methodology to manage work in progress
+* Partnered with development teams across multiple products
+* Collaborated with product and development teams on continuous reviews of historical documentation
+* Used AI tools (ChatGPT Enterprise, Copilot, GitHub Copilot, Atlassian Rovo) to complete tasks
 
 ## Technical Skills
 
@@ -37,43 +37,47 @@ Slack, Atlassian Jira, Atlassian Confluence, Zoom, Tempo, ServiceNow
 
 ### Documentation Files
 
-- **Two-Step Authentication** 
-  - XML: `c_two_step_authentication.xml`
-  - ODT: `two_step_authentication.odt`
-  - PDF: `two_step_authentication.pdf` (exportable from ODT)
-  - Information about implementing and using two-step authentication features
+* **Two-Step Authentication**
 
-- **Product FAQs** 
-  - XML: `r_product_faqs.xml`
-  - ODT: `product_faqs.odt`
-  - PDF: `product_faqs.pdf` (exportable from ODT)
-  - Frequently asked questions covering reconciliation processes, data storage, file exports, and product safety
-  - Common questions include: reconciliation frequency, data retention policies, and security concerns
+  * XML: [c\_two\_step\_authentication.xml](c_two_step_authentication.xml)
+  * ODT: [two\_step\_authentication.odt](two_step_authentication.odt)
+  * PDF: [two\_step\_authentication.pdf](two_step_authentication.pdf)
+  * Information about implementing and using two-step authentication features
+* **Product FAQs**
 
-- **User Roles** 
-  - XML: `t_user_roles.xml`
-  - ODT: `r_user_roles.odt`
-  - PDF: `user_roles.pdf` (exportable from ODT)
-  - Comprehensive overview of system user roles and their responsibilities
-  - Includes Admin and User role descriptions with access levels and permissions
+  * XML: [r\_product\_faqs.xml](r_product_faqs.xml)
+  * ODT: [product\_faqs.odt](product_faqs.odt)
+  * PDF: [product\_faqs.pdf](product_faqs.pdf)
+  * Frequently asked questions covering reconciliation processes, data storage, file exports, and product safety
+  * Common questions include: reconciliation frequency, data retention policies, and security concerns
+* **User Roles**
 
-- **Create New Estimates** 
-  - XML: `t_create_new_estimates.xml`
-  - ODT: `create_new_estimates.odt`
-  - PDF: `create_new_estimates.pdf` (exportable from ODT)
-  - Procedural documentation for creating and managing estimates
+  * XML: [t\_user\_roles.xml](t_user_roles.xml)
+  * ODT: [r\_user\_roles.odt](r_user_roles.odt)
+  * PDF: [user\_roles.pdf](user_roles.pdf)
+  * Comprehensive overview of system user roles and their responsibilities
+  * Includes Admin and User role descriptions with access levels and permissions
+* **Create New Estimates**
+
+  * XML: [t\_create\_new\_estimates.xml](t_create_new_estimates.xml)
+  * ODT: [create\_new\_estimates.odt](create_new_estimates.odt)
+  * PDF: [create\_new\_estimates.pdf](create_new_estimates.pdf)
+  * Procedural documentation for creating and managing estimates
 
 ### Additional Resources
 
-- **Megan Herzog Resume** (`Megan Herzog Resume.pdf`)
-  - Professional resume and qualifications document
+* **Megan Herzog Resume** ([Megan Herzog Resume.pdf](Megan%2520Herzog%2520Resume.pdf))
+
+  * Professional resume and qualifications document
 
 ## File Formats
 
 This repository includes documentation in multiple formats:
-- **XML files** - Structured documentation in XML format
-- **ODT files** - OpenDocument Text format files for easy editing and viewing
-- **Markdown** - This README and supporting documentation
-- **PDF files** - Formatted reference documents and additional resources
+
+* **XML files** - Structured documentation in XML format
+* **ODT files** - OpenDocument Text format files for easy editing and viewing
+* **Markdown** - This README and supporting documentation
+* **PDF files** - Formatted reference documents and additional resources
 
 Review the [DOCUMENTATION.md](DOCUMENTATION.md) file for a detailed guide to the repository structure.
+

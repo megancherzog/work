@@ -33,9 +33,7 @@ The repository is organized with paired file formats for accessibility:
 
 **Two-Step Authentication**
 - Files: 
-  - XML: `c_two_step_authentication.xml`
-  - ODT: `two_step_authentication.odt`
-  - PDF: `two_step_authentication.pdf` (exportable from ODT)
+  - XML: [c_two_step_authentication.xml](c_two_step_authentication.xml)
 - Covers: Implementation, configuration, and usage of two-factor authentication
 - Audience: System administrators, security personnel
 
@@ -43,9 +41,7 @@ The repository is organized with paired file formats for accessibility:
 
 **User Roles**
 - Files: 
-  - XML: `t_user_roles.xml`
-  - ODT: `r_user_roles.odt`
-  - PDF: `user_roles.pdf` (exportable from ODT)
+  - XML: [t_user_roles.xml](t_user_roles.xml)
 - Covers: Role hierarchy, permissions, and responsibilities
 - Key Roles: Admin, User
 - Audience: System administrators, account managers
@@ -54,9 +50,7 @@ The repository is organized with paired file formats for accessibility:
 
 **Product FAQs**
 - Files: 
-  - XML: `r_product_faqs.xml`
-  - ODT: `product_faqs.odt`
-  - PDF: `product_faqs.pdf` (exportable from ODT)
+  - XML: [r_product_faqs.xml](r_product_faqs.xml)
 - Topics:
   - What reconciliation is and why it's necessary
   - Data security and privacy (PII handling)
@@ -69,9 +63,7 @@ The repository is organized with paired file formats for accessibility:
 
 **Create New Estimates**
 - Files: 
-  - XML: `t_create_new_estimates.xml`
-  - ODT: `create_new_estimates.odt`
-  - PDF: `create_new_estimates.pdf` (exportable from ODT)
+  - XML: [t_create_new_estimates.xml](t_create_new_estimates.xml)
 - Covers: Step-by-step guide for estimate creation and management
 - Audience: Users, operators
 
