@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<topic id="two_step_authentication">
+<topic id="c_two_step_authentication">
   <title>Two-Step Authentication</title>
   <shortdesc>Two-Step Authentication enhances login security by requiring a one-time use code to be sent to a user's email or mobile phone.</shortdesc>
   <body>
