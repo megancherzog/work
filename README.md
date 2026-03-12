@@ -52,7 +52,7 @@ Slack, Atlassian Jira, Atlassian Confluence, Zoom, Tempo, ServiceNow
   * Common questions include: reconciliation frequency, data retention policies, and security concerns
 * **User Roles**
 
-  * XML: [t_user_roles.xml](c_user_roles.xml)
+  * XML: [t_user_roles.xml](r_user_roles.xml)
   * ODT: [r_user_roles.odt](user_roles.odt)
   * PDF: [user_roles.pdf](user_roles.pdf)
   * Comprehensive overview of system user roles and their responsibilities
