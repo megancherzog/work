@@ -1,6 +1,37 @@
-# Documentation Repository
+# Portfolio Repository
 
-This repository contains technical documentation files for product features, user guides, and system administration resources.
+## Overview
+
+This repository serves as a work portfolio showcasing my experience and expertise. I am a **communicator who supports software development teams** with high-quality content in product organizations. I focus on documentation quality and release readiness, collaborating with subject matter experts and product teams to deliver clear, accurate information.
+
+This repository contains technical documentation files for product features, user guides, and system administration resources that demonstrate my documentation capabilities.
+
+## Professional Experience & Accomplishments
+
+- Scheduled, organized, and delegated work with cross-functional and international partners
+- Managed multiple content initiatives supporting simultaneous product releases
+- Provided constructive, tactful feedback to writers and contributors
+- Mentored and trained team members on same-day release notes and content updates
+- Supported team adoption of new tools and content creation software as an early adopter
+- Encouraged knowledge sharing and continuous improvement across the writing team
+- Used Kanban development methodology to manage work in progress
+- Partnered with development teams across multiple products
+- Collaborated with product and development teams on continuous reviews of historical documentation
+- Used AI tools (ChatGPT Enterprise, Copilot, GitHub Copilot, Atlassian Rovo) to complete tasks
+
+## Technical Skills
+
+**Content Creation Platforms:**
+Oxygen XML Author, Adobe FrameMaker, DITA-XML, Eclipse, Oxygen Content Fusion, Microsoft Word, Microsoft Teams, Acrobat, Python
+
+**AI Tools:**
+Claude, ChatGPT Enterprise, GitHub Copilot with VS Code, Copilot, Atlassian Rovo, Box
+
+**Version Control:**
+GIT, GitHub, GitStaging, Tortoise SVN, SynchroSVN, Visual Studio, TFS
+
+**Project Management Tools:**
+Slack, Atlassian Jira, Atlassian Confluence, Zoom, Tempo, ServiceNow
 
 ## Contents
 
