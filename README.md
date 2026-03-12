@@ -9,6 +9,7 @@
 - **Significantly improved user task completion rates** through user-focused content design and iterative testing.
 - **Accelerated customer onboarding success** by creating clear, accessible content.
 - **Led AI adoption initiatives** across the writing team, establishing practical patterns for AI-assisted content optimization.
+- **Built automation tooling** to enforce content quality standards at scale, including a portable Python script for DITA and style guide validation.
 - **Scaled content systems** across diverse organizational environments.
 
 ---
@@ -87,7 +88,7 @@ This repository showcases four samples from a college financial aid platform, de
 - ServiceNow: Enterprise change management and compliance tracking
 
 **Adjacent Skills Supporting Content Excellence**
-- Python: Data analysis through script building and defining content optimization metrics
+- Python: Built content quality validation scripts; automated DITA structural and style guide checks with HTML/JSON report output
 - Microsoft Office Suite: Collaborative editing, stakeholder communication
 - Acrobat: PDF accessibility compliance, form design
 
@@ -153,7 +154,16 @@ These content samples are from a **college financial aid reconciliation and esti
   * **My Role:** Participated in design meetings and rewrote procedural content with clarity-focused language.
   * **Outcomes:** Clients were pleased with the updated content.
   * **Skills Demonstrated:** User experience writing, procedural content,  iterative content improvement.
+### Process & Automation Artifacts
 
+* **Content Quality Review Script**
+
+  * Python: [content_review.py](content_review.py)
+  * Reference: [CONTENT_REVIEW.md](CONTENT_REVIEW.md)
+  * **Business Problem:** Manual content reviews were inconsistent and time-consuming across a large DITA project with weekly release cycles. Style guide compliance depended on individual reviewer knowledge rather than a repeatable process.
+  * **My Role:** Designed and built a portable Python script that validates DITA files against structural standards and Microsoft Writing Style Guide principles, generating HTML and JSON reports for easy review.
+  * **What it checks:** Empty required elements, deprecated DITA elements, broken cross-references, hard-coded links, and 20+ style guide rules (filler words, passive voice, Latin abbreviations, word choice, and more).
+  * **Skills Demonstrated:** Python scripting, automation, DITA structural knowledge, applied Microsoft Writing Style Guide expertise, content operations thinking.
 ### Additional Resources
 
 * **Megan Herzog Resume** ([Megan Herzog Resume.pdf](Megan%20Herzog%20Resume.pdf))
@@ -168,6 +178,7 @@ This repository includes content in multiple formats:
 * **ODT files** - OpenDocument Text format files for easy editing and viewing
 * **Markdown** - This README and supporting content
 * **PDF files** - Formatted reference documents and additional resources
+* **Python (.py)** - Automation and content quality scripts
 
 Review the [DOCUMENTATION.md](DOCUMENTATION.md) file for a detailed guide to the repository structure.
 
