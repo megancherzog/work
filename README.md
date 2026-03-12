@@ -67,14 +67,15 @@ This repository showcases four samples from a college financial aid platform, de
 **Content Management & Publishing**
 - Oxygen Content Fusion: Collaborative review and publishing workflows
 - Version control proficiency enabling efficient content updates alongside product releases
+- Version control: Proficiency enabling efficient content updates alongside product releases
 - Multi-format output (XML, PDF, ODT, Markdown): Accessibility and distribution optimization
-- Publishing automation for consistent formatting across customer-facing content
+- Publishing automation: Consistent formatting across customer-facing content
 
 **AI-Assisted Content Optimization (Strategic Implementation)**
 - Claude, ChatGPT Enterprise, GitHub Copilot: Draft refinement, clarity analysis, technical accuracy checking
-- AI-enhanced workflow: faster draft-to-completion cycle with maintained quality
-- Prompt engineering for compliance and technical accuracy validation
-- Using AI to identify simplification opportunities while preserving regulatory requirements
+- AI-enhanced workflow: Faster draft-to-completion cycle with maintained quality
+- Prompt engineering: Compliance and technical accuracy validation
+- Use of AI: Identify simplification opportunities while preserving regulatory requirements
 
 **Version Control & Collaboration**
 - GIT/GitHub: Professional content repository management, branching strategies, collaborative workflows
