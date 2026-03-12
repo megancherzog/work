@@ -39,34 +39,34 @@ Slack, Atlassian Jira, Atlassian Confluence, Zoom, Tempo, ServiceNow
 
 * **Two-Step Authentication**
 
-  * XML: [c\_two\_step\_authentication.xml](c_two_step_authentication.xml)
-  * ODT: [two\_step\_authentication.odt](two_step_authentication.odt)
-  * PDF: [two\_step\_authentication.pdf](two_step_authentication.pdf)
+  * XML: [c_two_step_authentication.xml](c_two_step_authentication.xml)
+  * ODT: [two_step_authentication.odt](two_step_authentication.odt)
+  * PDF: [two_step_authentication.pdf](two_step_authentication.pdf)
   * Information about implementing and using two-step authentication features
 * **Product FAQs**
 
-  * XML: [r\_product\_faqs.xml](r_product_faqs.xml)
-  * ODT: [product\_faqs.odt](product_faqs.odt)
-  * PDF: [product\_faqs.pdf](product_faqs.pdf)
+  * XML: [r_product_faqs.xml](r_product_faqs.xml)
+  * ODT: [product_faqs.odt](product_faqs.odt)
+  * PDF: [product_faqs.pdf](product_faqs.pdf)
   * Frequently asked questions covering reconciliation processes, data storage, file exports, and product safety
   * Common questions include: reconciliation frequency, data retention policies, and security concerns
 * **User Roles**
 
-  * XML: [t\_user\_roles.xml](t_user_roles.xml)
-  * ODT: [r\_user\_roles.odt](r_user_roles.odt)
-  * PDF: [user\_roles.pdf](user_roles.pdf)
+  * XML: [t_user_roles.xml](t_user_roles.xml)
+  * ODT: [r_user_roles.odt](r_user_roles.odt)
+  * PDF: [user_roles.pdf](user_roles.pdf)
   * Comprehensive overview of system user roles and their responsibilities
   * Includes Admin and User role descriptions with access levels and permissions
 * **Create New Estimates**
 
-  * XML: [t\_create\_new\_estimates.xml](t_create_new_estimates.xml)
-  * ODT: [create\_new\_estimates.odt](create_new_estimates.odt)
-  * PDF: [create\_new\_estimates.pdf](create_new_estimates.pdf)
+  * XML: [t_create_new_estimates.xml](t_create_new_estimates.xml)
+  * ODT: [create_new_estimates.odt](create_new_estimates.odt)
+  * PDF: [create_new_estimates.pdf](create_new_estimates.pdf)
   * Procedural documentation for creating and managing estimates
 
 ### Additional Resources
 
-* **Megan Herzog Resume** ([Megan Herzog Resume.pdf](Megan%2520Herzog%2520Resume.pdf))
+* **Megan Herzog Resume** ([Megan Herzog Resume.pdf](Megan%20Herzog%20Resume.pdf))
 
   * Professional resume and qualifications document
 

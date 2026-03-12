@@ -4,7 +4,6 @@
   <shortdesc>Learn about frequently asked questions regarding the product.</shortdesc>
   <body>
     <table>
-      <title>Frequently Asked Questions</title>
       <tgroup cols="2">
         <colspec colname="c1" colwidth="1*"/>
         <colspec colname="c2" colwidth="3*"/>
@@ -22,19 +21,19 @@
           </row>
           <row>
             <entry>How often is reconciliation necessary?</entry>
-            <entry>Campus-based aid and Direct Loan require monthly reconciliation, in addition to year-end close out. Best practice is to reconcile each fund source monthly.</entry>
+            <entry>Campus-based aid and Direct Loan require monthly reconciliation. The best practice is to reconcile each fund source monthly.</entry>
           </row>
           <row>
             <entry>Is it safe to upload my COD and SIS files into the product?</entry>
-            <entry>Yes. No personal identification information (PII) is retained in the system. After the process runs, all PII is deleted from the servers.</entry>
+            <entry>Yes, it is safe. No personal identification information (PII) is retained in the system. After the process runs, all PII is deleted from the servers.</entry>
           </row>
           <row>
             <entry>How long do you store data?</entry>
             <entry>Report results are available for 90 days on the website. Users can run reports as often as needed.</entry>
           </row>
           <row>
-            <entry>Can I export the file into Excel and save it to my desktop?</entry>
-            <entry>Yes. Matching result reports can be exported as CSV files and viewed in Excel. After export, users can save the downloaded file.</entry>
+            <entry>How can files be exported to Excel and saved locally?</entry>
+            <entry>Matching result reports can be exported as CSV files and opened in Excel. Users can save the exported files to their local drive for further analysis and record-keeping.</entry>
           </row>
         </tbody>
       </tgroup>

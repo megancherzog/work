@@ -71,8 +71,7 @@ The repository is organized with paired file formats for accessibility:
 
 ### PDF Documents
 
-**Megan Herzog Resume**
-- File: `Megan Herzog Resume.pdf`
+**Megan Herzog Resume** ([Megan Herzog Resume.pdf](Megan%20Herzog%20Resume.pdf))
 - Covers: Professional qualifications, experience, and credentials
 - Audience: Hiring managers, stakeholders, team members
 
