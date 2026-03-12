@@ -6,7 +6,7 @@
     <section>
       <title>Procedure</title>
       <steps>
-        <step>Navigate to the <menucascade><uicontrol>Cost Estimator</uicontrol><uicontrol>Estimates</uicontrol><uicontrol>New Estimate</uicontrol></menucascade>.
+        <step>Navigate to the <menucascade><uicontrol>Cost Estimator</uicontrol> > <uicontrol>Estimates</uicontrol> > <uicontrol>New Estimate</uicontrol></menucascade>.
           <p>Result: The <uicontrol>Estimator</uicontrol> page displays.</p>
         </step>
         <step>Accept the Terms of Use agreement and click <uicontrol>Get Started</uicontrol>.</step>
