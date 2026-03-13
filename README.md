@@ -3,7 +3,9 @@
 ## Executive Summary
 
 I have spent 20 years helping software teams communicate more clearly. My focus is on content that reduces issues for customers learning a product and for teams trying to ship quality documentation on a weekly release cycle. I have collaborated with product, support, and engineering teams to figure out why users get stuck and then updated the content. My work has been in a higher education SaaS environment where users range from IT directors, financial aid staff, and student users. As a minimalist content creator, I can tailor my writing to meet the needs of any audience. 
-I have taken on more process and tooling work in recent years. I have enjoyed exploring automation for release notes, piloting AI workflows with the writing team, and writing validation scripts in Python using AI. 
+
+I have taken on more process and tooling work in recent years. I have enjoyed exploring automation for release notes, piloting AI workflows with the writing team, and writing validation scripts in Python using AI.
+ 
 I have found that the most useful content professionals think about the whole content strategic process. How content gets created, reviewed, maintained, and measured.
 
 **Key Achievements:**
@@ -16,7 +18,7 @@ I have found that the most useful content professionals think about the whole co
 
 ## Overview
 
-This repository comes out of a team that moved fast with weekly releases, multiple products, and a support queue that told returned quick results. The samples are accurate, durable, and written for different audiences without relying on screenshots. UI changes every sprint, but well-written steps usually do not.
+This repository comes out of a team that moved fast with weekly releases, multiple products, and a support queue that returned quick results. The samples are accurate, durable, and written for different audiences without relying on screenshots. UI changes every sprint, but well-written steps usually do not.
 
 My work involved people as much as writing. I needed subject matter expert reviews, review cycles, and to continue to build shared standards for the team. The writing is the visible part, but the coordination behind it takes effort.
 
