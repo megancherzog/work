@@ -1,29 +1,31 @@
-# Documentation Guide
+# Content Guide
 
-This guide provides an overview of the documentation repository structure and content organization.
+This guide provides an overview of the content repository structure and organization.
 
 ## Table of Contents
 
 1. [Repository Overview](#repository-overview)
-2. [Documentation Structure](#documentation-structure)
+2. [Content Structure](#content-structure)
 3. [File Descriptions](#file-descriptions)
 4. [Format Guide](#format-guide)
 5. [Maintenance Guidelines](#maintenance-guidelines)
 
 ## Repository Overview
 
-This repository serves as a centralized hub for technical documentation covering:
+This repository serves as a centralized hub for content covering:
 - Authentication and security features
 - User management and role definitions
 - Frequently asked questions
-- Process documentation for key operations
+- Process content for key operations
+- Automation and content quality tooling
 
-## Documentation Structure
+## Content Structure
 
 The repository is organized with paired file formats for accessibility:
-- **XML Files (t_/r_/c_ prefixed)**: Structured, version-controlled documentation
+- **XML Files (t_/r_/c_ prefixed)**: Structured, version-controlled content
 - **ODT Files**: Formatted documents for easy reading and printing
 - **Markdown Files**: Human-readable guides and references
+- **Python Files**: Automation and content quality scripts
 
 ### File Naming Conventions
 
@@ -32,44 +34,61 @@ The repository is organized with paired file formats for accessibility:
 - **c_** prefix: Configuration or security-related files
 
 **Two-Step Authentication**
-- Files: 
+- Files:
   - XML: [c_two_step_authentication.xml](c_two_step_authentication.xml)
-- Covers: Implementation, configuration, and usage of two-factor authentication
-- Audience: System administrators, security personnel
+  - ODT: [two_step_authentication.odt](two_step_authentication.odt)
+  - PDF: [two_step_authentication.pdf](two_step_authentication.pdf)
+- Covers: Implementation and usage of two-step authentication via SSO and DSO
+- Audience: System administrators, IT security teams
 
 ### User Management
 
 **User Roles**
-- Files: 
+- Files:
   - XML: [r_user_roles.xml](r_user_roles.xml)
-- Covers: Role hierarchy, permissions, and responsibilities
+  - ODT: [user_roles.odt](user_roles.odt)
+  - PDF: [user_roles.pdf](user_roles.pdf)
+- Covers: Role definitions, permissions, and responsibilities mapped to real-world job functions
 - Key Roles: Admin, User
-- Audience: System administrators, account managers
+- Audience: Institutional administrators, IT security teams
 
 ### Product Information
 
 **Product FAQs**
-- Files: 
+- Files:
   - XML: [r_product_faqs.xml](r_product_faqs.xml)
+  - ODT: [product_faqs.odt](product_faqs.odt)
+  - PDF: [product_faqs.pdf](product_faqs.pdf)
 - Topics:
-  - What reconciliation is and why it's necessary
+  - What reconciliation is and why it is necessary
   - Data security and privacy (PII handling)
-  - Data retention policies (90-day retention)
+  - Data retention policies
   - Export and reporting capabilities
-  - Monthly reconciliation requirements for campus-based aid and Direct Loan
-- Audience: End users, system operators
+  - Monthly reconciliation requirements
+- Audience: End users, system operators, training reference
 
 ### Operations
 
 **Create New Estimates**
-- Files: 
+- Files:
   - XML: [t_create_new_estimates.xml](t_create_new_estimates.xml)
-- Covers: Step-by-step guide for estimate creation and management
-- Audience: Users, operators
+  - ODT: [create_new_estimates.odt](create_new_estimates.odt)
+  - PDF: [create_new_estimates.pdf](create_new_estimates.pdf)
+- Covers: Step-by-step guide for creating and managing cost estimates
+- Audience: Financial aid staff, student services representatives, institutional and direct users
+
+### Process & Automation
+
+**Content Quality Review Script**
+- Files:
+  - Python: [content_review.py](content_review.py)
+  - Reference: [CONTENT_REVIEW.md](CONTENT_REVIEW.md)
+- Covers: Automated validation of DITA files against structural standards and the Microsoft Writing Style Guide
+- Checks: Empty required elements, deprecated DITA elements, broken cross-references, hard-coded links, passive voice, filler words, Latin abbreviations, and 20+ additional style rules
+- Output: HTML report and JSON report saved to `content_review_reports/`
+- Audience: Content team members running self-service quality checks
 
 ## Additional Resources
-
-### PDF Documents
 
 **Megan Herzog Resume** ([Megan Herzog Resume.pdf](Megan%20Herzog%20Resume.pdf))
 - Covers: Professional qualifications, experience, and credentials
@@ -137,15 +156,27 @@ PDF files provide:
 - Maintains formatting across systems
 - Suitable for sharing and archiving
 
+### Python Format
+
+Python (.py) files provide:
+- Automated content quality checks
+- Repeatable, self-service review workflows
+- Portable scripts runnable on any folder of DITA/XML files
+
+**Benefits:**
+- Reduces reliance on manual checklists
+- Consistent standards enforcement across the team
+- HTML and JSON output for easy review and tracking
+
 ## Maintenance Guidelines
 
-### Updating Documentation
+### Updating Content
 
 1. **Dual Format Updates**: When updating content, maintain both XML and ODT versions
 2. **Version Control**: Commit changes to both formats together
 3. **Consistency**: Ensure titles, IDs, and descriptions match across formats
 
-### Adding New Documentation
+### Adding New Content
 
 1. Create XML file with appropriate prefix (t_, r_, c_)
 2. Create corresponding ODT file
@@ -154,8 +185,8 @@ PDF files provide:
 
 ### Quality Checklist
 
+- [ ] Run `content_review.py` against the folder and resolve any errors or warnings
 - [ ] Content is clear and concise
-- [ ] Examples are provided where helpful
 - [ ] All sections are properly titled and formatted
 - [ ] Both XML and ODT versions are updated
 - [ ] References are accurate and complete
@@ -163,11 +194,12 @@ PDF files provide:
 
 ## Best Practices
 
-- **Keep it current**: Review and update documentation regularly
+- **Keep it current**: Review and update content regularly
 - **Be specific**: Include examples and use cases where applicable
 - **Consistency matters**: Use uniform formatting and language
 - **Link related content**: Reference related topics when appropriate
 - **Version tracking**: Git commits should reference what changed and why
+- **Run automated checks**: Use `content_review.py` before committing to catch structural and style issues early
 
 ---
 
