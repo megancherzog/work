@@ -2,10 +2,10 @@
 
 ## Executive Summary
 
-I have spent 20 years helping software teams communicate more clearly. My focus is on content that reduces issues for customers learning a product and for teams trying to ship quality documentation on a weekly release cycle. I have collaborated with product, support, and engineering teams to figure out why users get stuck and then updated the content. My work has been in a higher education SaaS environment where users range from IT directors, financial aid staff, and student users. As a minimalist content creator, I can tailor my writing to meet the needs of any audience. 
+I have spent 20 years helping software teams communicate more clearly. My focus has been on content that reduces issues for customers learning a product and for teams trying to ship quality documentation. I have collaborated with product, support, and engineering teams to figure out why users get stuck and then updated the content. My experience has been in a higher education SaaS environment where users range from IT, finance staff, human resources staff, financial aid staff, and student users. As a minimalist content creator, I can tailor my writing to meet the needs of any audience. 
 
-I have taken on more process and tooling work in recent years. I have enjoyed exploring automation for release notes, piloting AI workflows with the writing team, and writing validation scripts in Python using AI.
- 
+I have taken on more process and tooling work in recent years. I have enjoyed exploring automation, piloting AI workflows with the writing team, and writing validation scripts in Python using AI.
+
 I have found that the most useful content professionals think about the whole content strategic process. How content gets created, reviewed, maintained, and measured.
 
 **Key Achievements:**
